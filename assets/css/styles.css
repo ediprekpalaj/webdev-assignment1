@@ -4,6 +4,7 @@ h1 {
 
 h3 {
     text-align: center;
+    font-size: xx-large;
 }
 
 .images {
@@ -13,8 +14,8 @@ h3 {
 }
 
 img {
-    height: 700px;
-    width: 500px;
+    height: 600px;
+    width: 450px;
     display: center;
 }
 
@@ -27,5 +28,6 @@ img {
 }
 
 .ending a {
-    margin: 0% 40% 40% 40%;
+    font-size: larger;
+    margin: 0% 0% 0% 40%;
 }

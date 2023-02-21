@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-size: xx-large;
+}
+
+table {
+    margin: 0 auto;
+    text-align: center;
+}
+
+table, th, td {
+    border:1px solid black;
+}
+
+.goatsimgs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    height: 700px;
+    width: 500px;
+    display: center;
+}
+
+.homepage {
+    text-align: center;
+    font-size: 50px;
+}
