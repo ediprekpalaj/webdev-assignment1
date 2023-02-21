@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    height: 700px;
+    width: 500px;
+    display: center;
+}
+
+.ronaldo a {
+    margin: 0% 30% 30% 30%;
+}
+
+.messi a {
+    margin: 0% 35% 35% 35%;
+}
+
+.ending a {
+    margin: 0% 40% 40% 40%;
+}
